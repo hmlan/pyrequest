@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e207c8a-f36c-48e3-93c0-8097cb90daf3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/interface/user_logout.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/user_logout.py" afterDir="false" />
-    </list>
+    <list default="true" id="8e207c8a-f36c-48e3-93c0-8097cb90daf3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,17 +11,18 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/pyrequest$Unittests_for_merchant_shop_user_login_test_MerchantShopUserLoginTest.coverage" NAME="Unittests for merchant_shop_user_login_test.MerchantShopUserLoginTest Coverage Results" MODIFIED="1542177055803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
+    <SUITE FILE_PATH="coverage/pyrequest$Unittests_for_get_mall_localorder_list_Get_Order_Localorder_List.coverage" NAME="Unittests for get_mall_localorder_list.Get_Order_Localorder_List Coverage Results" MODIFIED="1542268005374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
+    <SUITE FILE_PATH="coverage/pyrequest$Unittests_in_user_logout_py.coverage" NAME="Unittests in user_logout.py Coverage Results" MODIFIED="1542267801517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
+    <SUITE FILE_PATH="coverage/pyrequest$Unittests_in_send_smscode_test_py.coverage" NAME="Unittests in send_smscode_test.py Coverage Results" MODIFIED="1542102546737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/pyrequest$Unittests_in_merchant_shop_user_login_test_py.coverage" NAME="Unittests in merchant_shop_user_login_test.py Coverage Results" MODIFIED="1542248607307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/pyrequest$jwt.coverage" NAME="jwt Coverage Results" MODIFIED="1542266808172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_fixture" />
     <SUITE FILE_PATH="coverage/pyrequest$Unittests_for_send_smscode_test_SendSmscode_test_send_smscode_thrid_c.coverage" NAME="Unittests for send_smscode_test.SendSmscode.test_send_smscode_thrid_c Coverage Results" MODIFIED="1542100079694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/pyrequest$Unittests_in_get_mall_localorder_list_py.coverage" NAME="Unittests in get_mall_localorder_list.py Coverage Results" MODIFIED="1542336512403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
-    <SUITE FILE_PATH="coverage/pyrequest$Unittests_for_get_mall_localorder_list_Get_Order_Localorder_List.coverage" NAME="Unittests for get_mall_localorder_list.Get_Order_Localorder_List Coverage Results" MODIFIED="1542268005374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
-    <SUITE FILE_PATH="coverage/pyrequest$Unittests_in_user_logout_py.coverage" NAME="Unittests in user_logout.py Coverage Results" MODIFIED="1542267801517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/pyrequest$Unittests_for_merchant_shop_user_login_test_MerchantShopUserLoginTest_test_login_uername_null.coverage" NAME="Unittests for merchant_shop_user_login_test.MerchantShopUserLoginTest.test_login_uername_null Coverage Results" MODIFIED="1542246955740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/pyrequest$Unittests_for_get_mall_localorder_list_Get_Order_Localorder_List_test_get_list.coverage" NAME="Unittests for get_mall_localorder_list.Get_Order_Localorder_List.test_get_list Coverage Results" MODIFIED="1542268105703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/pyrequest$Unittests_for_send_smscode_test_SendSmscode.coverage" NAME="Unittests for send_smscode_test.SendSmscode Coverage Results" MODIFIED="1542100952968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
+    <SUITE FILE_PATH="coverage/pyrequests$Unittests_in_user_logout_py.coverage" NAME="Unittests in user_logout.py Coverage Results" MODIFIED="1542358075767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/pyrequest$Unittests_for_merchant_shop_user_login_test_MerchantShopUserLoginTest_test_login_success.coverage" NAME="Unittests for merchant_shop_user_login_test.MerchantShopUserLoginTest.test_login_success Coverage Results" MODIFIED="1542246963854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
-    <SUITE FILE_PATH="coverage/pyrequest$Unittests_in_send_smscode_test_py.coverage" NAME="Unittests in send_smscode_test.py Coverage Results" MODIFIED="1542102546737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -54,7 +53,7 @@
       <file leaf-file-name="user_logout.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/interface/user_logout.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="263">
               <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -132,7 +131,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="259" />
     <option name="y" value="108" />
     <option name="width" value="1400" />
@@ -191,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in get_mall_localorder_list.py">
+  <component name="RunManager" selected="Python tests.Unittests in user_logout.py">
     <configuration name="jwt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyrequest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,10 +275,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in user_logout.py" />
         <item itemvalue="Python tests.Unittests in get_mall_localorder_list.py" />
         <item itemvalue="Python tests.Unittests for get_mall_localorder_list.Get_Order_Localorder_List.test_get_list" />
         <item itemvalue="Python tests.Unittests for get_mall_localorder_list.Get_Order_Localorder_List" />
-        <item itemvalue="Python tests.Unittests in user_logout.py" />
         <item itemvalue="Python.jwt" />
       </list>
     </recent_temporary>
@@ -330,17 +329,17 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="259" y="108" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.48680043" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5173962" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1296875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1799133" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -698,7 +697,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/interface/user_logout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="263">
           <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
