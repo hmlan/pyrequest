@@ -22,6 +22,7 @@ class UserLogout(Jwt):
         result=r.json()
         self.assertEqual(result['code'],'200')
         self.assertEqual(result['msg'],"注销成功")
+        print(self.url)
 if __name__=="__main__":
     unittest.main()
        
