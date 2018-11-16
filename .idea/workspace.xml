@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e207c8a-f36c-48e3-93c0-8097cb90daf3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/db_fixture/jwt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/get_mall_localorder_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/merchant_shop_user_login_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/send_smscode_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface/user_logout.py" afterDir="false" />
-    </list>
+    <list default="true" id="8e207c8a-f36c-48e3-93c0-8097cb90daf3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +52,8 @@
       <file leaf-file-name="user_logout.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/interface/user_logout.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+            <state relative-caret-position="133">
+              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -702,8 +696,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/interface/user_logout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="46" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        <state relative-caret-position="133">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
