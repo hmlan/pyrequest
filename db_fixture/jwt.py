@@ -13,3 +13,4 @@ class Jwt(unittest.TestCase):
        r = requests.post(url, json=body_raw)
        self.jwt = r.json()['data']['jwt']
        print(self.jwt)
+       

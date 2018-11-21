@@ -20,8 +20,10 @@ class UserLogout(Jwt):
         header={"Authorization":self.jwt,"Platform":'P_WECHAT',"Version":'2.7.0'}
         r=requests.get(self.url,headers=header)
         result=r.json()
+        print(r)
+        print(result)
         self.assertEqual(result['code'],'200')
-        self.assertEqual(result['msg'],"注销成功")
+        self.assertEqual(result["msg"],"注销成功")
         print(self.url)
 if __name__=="__main__":
     unittest.main()
